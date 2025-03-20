@@ -1,21 +1,11 @@
-<style>
+<h1>Antivirus Warnings – Just a reminder to temporarily disable antivirus software due to potential false positives.</h1>
 
-.custom-font {
-
-font-size: 18px;
-
-}
-
-</style>
-
-<p class="custom-font">Antivirus Warnings – Just a reminder to temporarily disable antivirus software due to potential false positives.</p>
-
-Description
+<h2>Description</h2>
 
 
 This program is designed for creating and automating accounts on SA-MP (San Andreas Multiplayer) servers. It allows for quick account generation, data management, and optimization of the registration process.
 
-Features
+<h2>Features</h2>
 
 
 Automated account creation with unique user details.
@@ -28,7 +18,7 @@ API integration with SA-MP servers.
 
 Simple and user-friendly interface.
 
-Usage
+<h2>Usage</h2>
 
 
 Download and install SAMPR5-AccBot.
@@ -41,7 +31,7 @@ Download and install SAMPR5-AccBot.
 3.Run the program.
 
 
-Technologies
+<h2>Used resources</h2>
 
 
 Programming Language: Python / C# / other (depending on implementation).
