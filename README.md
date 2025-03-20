@@ -1,3 +1,15 @@
+<style>
+
+.custom-font {
+
+font-size: 18px;
+
+}
+
+</style>
+
+<p class="custom-font">Antivirus Warnings – Just a reminder to temporarily disable antivirus software due to potential false positives.</p>
+
 Description
 
 
@@ -21,7 +33,6 @@ Usage
 
 Download and install SAMPR5-AccBot.
 
-Antivirus Warnings – Just a reminder to temporarily disable antivirus software due to potential false positives.
 
 1.Configure settings by modifying the options.txt file.
 
