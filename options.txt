@@ -1,0 +1,20 @@
+# SAMPR5-AccBot Free Options File
+
+# Set login mode: AUTO or MANUAL
+LOGIN_MODE=Auto
+
+# Number of accounts to create (max: 5)
+ACCOUNT_COUNT=5
+
+# Enable or disable email verification (TRUE or FALSE)
+EMAIL_VERIFICATION=TRUE
+
+# Default password for generated accounts
+DEFAULT_PASSWORD=RandomGenerated123
+
+# Server IP address and port
+SERVER_IP=127.0.0.1
+SERVER_PORT=7777
+
+# Enable debug mode for troubleshooting (TRUE or FALSE)
+DEBUG_MODE=FALSE
