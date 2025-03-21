@@ -1,4 +1,4 @@
-<h1>Antivirus Warnings – Just a reminder to temporarily disable antivirus software due to potential false positives.</h1>
+<h1>Antivirus Warnings – Just a reminder to disable antivirus software due to potential false positives.</h1>
 
 <h2>Description</h2>
 
