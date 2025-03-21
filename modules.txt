@@ -1,4 +1,4 @@
-# SAMPR5-AccBot Advanced Configuration Modules
+# SAMPR5-AccBot Free Advanced Configuration Modules
 
 # Hyperthreaded Credential Allocation System
 HCAS=ENABLED
